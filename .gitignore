@@ -52,3 +52,8 @@ prompt
 server.log
 # Skills directory
 /skills/
+# local database
+/db
+
+# static build backup
+.api-backup-static-build
